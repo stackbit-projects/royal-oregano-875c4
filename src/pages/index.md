@@ -107,7 +107,7 @@ sections:
 
           - dolor sit amet
         type: faq_item
-      - question: Question 1
+      - question: Question 2
         answer: >-
           ## Lorem ipsum
 
