@@ -93,7 +93,7 @@ sections:
     title: A proven international supplier for all flexible packaging film products.
     subtitle: ''
     actions:
-      - label: Get Started
+      - label: Contact Us
         url: /Contact
         style: primary
   - section_id: recent-posts
