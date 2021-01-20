@@ -33,7 +33,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: 'You have the product, we put the package'
         image: 'images/rs=w_555,m,cg_true (1).jpg'
         image_alt: App users welcoming a new member
         content: |
