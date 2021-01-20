@@ -95,17 +95,8 @@ sections:
     background: white
     faq_items:
       - question: Question 1
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: |
+          Answer 1
         type: faq_item
       - question: Question 2
         answer: |
