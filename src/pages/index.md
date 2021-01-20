@@ -39,7 +39,7 @@ sections:
         content: |
           We offer our clients the ideal packaging for their products.
         actions: []
-      - title: Cool Feature of Your Services
+      - title: Advanced Technology
         image: images/proslit.jpg
         image_alt: App user profile preview
         content: >-
