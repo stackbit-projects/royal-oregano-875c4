@@ -100,6 +100,12 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 meta_title: ''
 meta_description: The preview of the Azimuth theme
 template: landing
