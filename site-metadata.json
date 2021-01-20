@@ -1,5 +1,5 @@
 {
-    "base_font": "system-sans",
+    "base_font": "fira-sans",
     "palette": "orange",
     "header": {
         "logo_img": "images/qt=q_95.webp",
