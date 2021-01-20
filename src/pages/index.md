@@ -85,10 +85,6 @@ sections:
       - label: Contact Us
         url: /Contact
         style: primary
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
   - section_id: lorem-ipsum
     title: Frequently Asked Questions
     subtitle: lorem-ipsum
