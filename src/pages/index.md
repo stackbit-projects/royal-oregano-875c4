@@ -92,7 +92,7 @@ sections:
     faq_items:
       - question: Question 1
         answer: |
-          ## Answer 1
+          Answer 1
         type: faq_item
       - question: Question 2
         answer: |
