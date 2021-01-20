@@ -25,10 +25,7 @@ sections:
       - title: The Best Feature of Your Services
         image: images/parallel-basil.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: "## For nearly 40 years, Robert Smith, Founder and President of Sunpak Caribe, Inc., has been in the manufacturing and distribution side of the flexible packaging industry. That experience brings a wealth of knowledge about the films that our customers need to best serve their needs.\_&#xA;&#xA;\n"
         actions:
           - label: Learn More
             url: /features
