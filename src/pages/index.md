@@ -100,7 +100,7 @@ sections:
         type: faq_item
       - question: Question 2
         answer: |
-          ## Answer 2
+          Answer 2
         type: faq_item
       - question: Question 3
         answer: |
