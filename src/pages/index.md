@@ -36,10 +36,8 @@ sections:
       - title: Awesome Feature of Your Services
         image: images/433935.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: |
+          We offer our clients the ideal packaging for their products.
         actions:
           - label: Learn More
             url: /features
