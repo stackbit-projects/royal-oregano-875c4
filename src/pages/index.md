@@ -103,17 +103,8 @@ sections:
           ## Answer 2
         type: faq_item
       - question: Question 3
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        answer: |
+          Answer 3
         type: faq_item
     type: section_faq
 meta_title: ''
