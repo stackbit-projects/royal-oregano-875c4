@@ -120,7 +120,7 @@ sections:
 
           - dolor sit amet
         type: faq_item
-      - question: Question 1
+      - question: Question 3
         answer: >-
           ## Lorem ipsum
 
