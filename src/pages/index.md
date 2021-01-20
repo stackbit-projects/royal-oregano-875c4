@@ -34,7 +34,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Awesome Feature of Your Services
-        image: images/433935.jpg
+        image: 'images/rs=w_555,m,cg_true.jpg'
         image_alt: App users welcoming a new member
         content: |
           We offer our clients the ideal packaging for their products.
