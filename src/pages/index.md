@@ -10,7 +10,7 @@ sections:
     content: |
       Serving the flexible packaging industry for over 35 years.
     actions:
-      - label: Learn More
+      - label: Contact Us
         url: /features
         style: primary
   - section_id: features
