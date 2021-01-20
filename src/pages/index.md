@@ -94,7 +94,7 @@ sections:
     subtitle: ''
     actions:
       - label: Get Started
-        url: /signup
+        url: /ContactUs
         style: primary
   - section_id: recent-posts
     type: section_posts
