@@ -22,7 +22,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: Among the Best
+      - title: Best Choice
         image: images/parallel-basil.jpg
         image_alt: App preview on a phone and tablet
         content: "##### Our experience brings a wealth of knowledge about the films that our customers need to best serve their needs.\_&#xA;&#xA;\n"
