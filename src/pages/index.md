@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: >-
       images/products-stretch-film-machine-rolls-warehouse-stack-shorr-packaging.jpg
-    image_alt: App preview
+    image_alt: ''
     title: Excellence in Flexible Packaging
     content: |
       Serving the flexible packaging industry for over 35 years.
