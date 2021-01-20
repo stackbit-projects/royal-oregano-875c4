@@ -103,7 +103,7 @@ sections:
   - section_id: lorem-ipsum
     title: Frequently Asked Questions
     subtitle: lorem-ipsum
-    background: gray
+    background: white
     faq_items: []
     type: section_faq
 meta_title: ''
